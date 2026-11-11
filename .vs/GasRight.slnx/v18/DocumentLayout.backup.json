@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turbo\\source\\repos\\GasRight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|c:\\users\\turbo\\source\\repos\\gasright\\gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|c:\\users\\turbo\\source\\repos\\gasright\\gasright\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|C:\\Users\\turbo\\source\\repos\\GasRight\\gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|C:\\Users\\turbo\\source\\repos\\GasRight\\gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|c:\\users\\turbo\\source\\repos\\gasright\\gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|C:\\Users\\turbo\\source\\repos\\GasRight\\gasright\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F166678-3A56-C3AF-A2C9-81FA579DA5D2}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD404C8-B21D-4E4A-8266-E08EDC4123B5}|GasRight\\GasRight.csproj|C:\\Users\\turbo\\source\\repos\\GasRight\\gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD404C8-B21D-4E4A-8266-E08EDC4123B5}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD404C8-B21D-4E4A-8266-E08EDC4123B5}|GasRight\\GasRight.csproj|C:\\Users\\turbo\\source\\repos\\GasRight\\gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD404C8-B21D-4E4A-8266-E08EDC4123B5}|GasRight\\GasRight.csproj|solutionrelative:gasright\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form3.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form3.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form3.cs",
+              "RelativeToolTip": "GasRight\\Form3.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T07:17:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form2.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs",
+              "RelativeToolTip": "GasRight\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:41:57.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form1.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs",
+              "RelativeToolTip": "GasRight\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:41:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form1.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs [Design]*",
+              "RelativeToolTip": "GasRight\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:37:40.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form2.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs [Design]*",
+              "RelativeToolTip": "GasRight\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:37:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form3.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form3.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form3.cs [Design]*",
+              "RelativeToolTip": "GasRight\\Form3.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:37:08.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form2.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form2.cs [Design]",
+              "RelativeToolTip": "GasRight\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T11:11:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs",
+              "RelativeDocumentMoniker": "GasRight\\Form1.cs",
+              "ToolTip": "C:\\Users\\turbo\\source\\repos\\GasRight\\GasRight\\Form1.cs [Design]",
+              "RelativeToolTip": "GasRight\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T10:35:56.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
